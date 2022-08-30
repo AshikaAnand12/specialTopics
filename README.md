@@ -28,7 +28,8 @@
 <img width="1440" alt="Screen Shot 2022-08-28 at 1 18 33 PM" src="https://user-images.githubusercontent.com/61357783/187319967-bd56c491-95d4-4807-b002-fadd6bff6f2e.png">
 
 6. Animated Drawing
-Uploaded to the repo
+
+https://drive.google.com/drive/folders/1XIAHWVAxV0PArTE1233kbmtkYP0MaZNL?usp=sharing
 
 
 7. Talking Face Generation
