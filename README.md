@@ -1,9 +1,11 @@
 # Assignment 1
 
 ## Part 1: Using Github Copilot
-Link : 
+Link 1: 
 https://user-images.githubusercontent.com/61357783/187325487-65658421-51c2-4340-bca9-fd5406e1f94a.mp4
 
+Link 2:
+https://drive.google.com/file/d/16cax9kBJlBQA5COKfpbuCIqukjJUPG5G/view?usp=sharing
 
 ## Part 2: 10 Interesting Online Demos
 
