@@ -1,5 +1,8 @@
 # Assignment 1
 
+## Part 1: Using Github Copilot
+Link : 
+
 ## Part 2: 10 Interesting Online Demos
 
 ### 1. Text to Image using Dall-e mini
