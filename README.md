@@ -1,8 +1,10 @@
 # Assignment 1
 
 ## Part 1: Using Github Copilot
-Link 1: 
+Link 1 (Simple Neural Network Using TensorFlow: 
 https://user-images.githubusercontent.com/61357783/187325487-65658421-51c2-4340-bca9-fd5406e1f94a.mp4
+Please use the below link, if the above link is not accessible : 
+https://drive.google.com/file/d/1jXeAiAhjkakCw8rObEcIY6aQL_b4LKd1/view?usp=sharing
 
 Link 2 (CNN with PyTorch):
 https://drive.google.com/file/d/16cax9kBJlBQA5COKfpbuCIqukjJUPG5G/view?usp=sharing
