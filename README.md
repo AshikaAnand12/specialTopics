@@ -41,8 +41,8 @@ https://drive.google.com/drive/folders/1XIAHWVAxV0PArTE1233kbmtkYP0MaZNL?usp=sha
 
 ### 7. Talking Face Generation
 
+https://user-images.githubusercontent.com/61357783/188351118-55167bde-5117-40f8-9b12-08a5beecb03e.mov
 
-https://user-images.githubusercontent.com/61357783/187320041-b1ccd4c6-244b-4f6f-9ac2-3b9b950c63b6.mov
 
 
 
