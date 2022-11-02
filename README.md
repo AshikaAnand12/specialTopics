@@ -7,4 +7,6 @@ GCN is the most basic of the graph neural networks
 ﻿Also Graph Attention Network (GAT), Graph Recurrent Neural Network (GRNN),
 ﻿Algorithms for heterogeneous graphs (RGCN, etc.)
  
- 
+We apply three convolutional layers, which means we learn the information about 3 neighbor hops. After that we apply a pooling layer to combine the information of the individual nodes, as we want to perform graph-level prediction.
+
+
