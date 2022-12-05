@@ -6,3 +6,5 @@ Video link (Youtube): https://youtu.be/mBffVkIrGL0
 
 PPT: https://docs.google.com/presentation/d/1Kw4GSvn3WVsfIu9JUhPrjuxIHqCzXSYdnfTGazOkf3A/edit?usp=sharing
 
+Reference article (IEEE paper): https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9666633
+
